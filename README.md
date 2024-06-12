@@ -1,5 +1,7 @@
 # MCJT
 
+**Precision in Pursuit: A Multi-Consistency Joint Approach for Infrared Anti-UAV Tracking**
+
 ![image-20240612155623652](.\assets\image-20240612155623652.png)
 
 ## 说明
