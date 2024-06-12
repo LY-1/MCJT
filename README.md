@@ -2,7 +2,7 @@
 
 **Precision in Pursuit: A Multi-Consistency Joint Approach for Infrared Anti-UAV Tracking**
 
-![image-20240612160934760](H:\论文\小论文\林\额外材料\林\visual COMPUTer\MCJT\assets\image-20240612160934760-17181797835212.png)
+![image-20240612160934760](.\assets\image-20240612160934760.png)
 
 ## 说明
 * 本项目基于OSTrack，参考https://github.com/botaoye/OSTrack  
