@@ -10,8 +10,6 @@
 
 
 ## 引用
-If our work is useful for your research, please consider citing:
-
 ```Bibtex
-
+Zhang J, Lin Y, Zhou X, et al. Precision in pursuit: a multi-consistency joint approach for infrared anti-UAV tracking[J]. The Visual Computer, 2024: 1-16.
 ```
